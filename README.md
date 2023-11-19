@@ -15,6 +15,6 @@ When you delete your account:
 •	Please note that any content you have shared publicly (like reviews or comments) may remain visible, but it will no longer be linked to your account.
 Contact Us
 Alternatively, you can use the delete button in app version 2
-If you have any questions about the account deletion process, please contact our support team at support@quicksolverapp.app.
+If you have any questions about the account deletion process, please contact our support team at support@quicksolver.app.
 ________________________________________
 
